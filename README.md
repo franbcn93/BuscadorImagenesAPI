@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Para probar el projecto... [Haz click aquí](https://franbcn93.github.io/BuscadorImagenesAPI).
 
 ## Available Scripts
 
