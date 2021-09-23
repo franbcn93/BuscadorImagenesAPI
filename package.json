@@ -1,6 +1,6 @@
 {
-  "name": "pixabay",
   "homepage": "https://franbcn93.github.io/BuscadorImagenesAPI",
+  "name": "pixabay",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
